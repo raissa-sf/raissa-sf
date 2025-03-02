@@ -1,4 +1,4 @@
-[# 👋🏻 Raissa Santos Feitosa
+# 👋🏻 Raissa Santos Feitosa
 
 Estudante de Análise e Desenvolvimento de Sistemas no IFSP. Estou começando a aprender Java e aprofundando meus estudos em Python e SQL para trabalhar em projetos de automação e ciência de dados. Desejo explorar mais técnicas de IA para resolver problemas complexos, como automação, análise de imagens e reconhecimento de padrões em grandes volumes de dados.
 
