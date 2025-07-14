@@ -1,3 +1,5 @@
+# Raissa Santos Feitosa
+
 ## Sobre Mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com foco em desenvolvimento back-end. Atualmente, estou aprofundando meus conhecimentos em Java, Python e bancos de dados relacionais como MySQL e PostgreSQL. Tenho interesse em construir APIs escaláveis, integrar sistemas e aplicar automação inteligente em soluções corporativas. Também busco explorar técnicas de inteligência artificial para análise de dados, reconhecimento de padrões e otimização de processos.
@@ -16,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com foco em des
 
 ### Linguagens e Frameworks Back-End
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F89820)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=8CC84B)
@@ -53,4 +55,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com foco em des
 - Integração de APIs RESTful com Java e Spring Boot
 - Automação de relatórios utilizando Python e Power Query
 - Projetos com SQL avançado para análise de dados
-- Estudo contínuo sobre arquitetura de microsserviços e mensageria (RabbitMQ/Kafka)
