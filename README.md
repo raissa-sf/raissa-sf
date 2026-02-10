@@ -49,6 +49,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com foco em des
 
 ## Em Desenvolvimento
 
-- Integração de APIs RESTful com Java e Spring Boot
-- Automação de relatórios utilizando Python e Power Query
 - Projetos com SQL avançado para análise de dados
+- Python e LangChain para projetos com chatbot e IA Generativa
+ 
