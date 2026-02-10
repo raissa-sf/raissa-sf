@@ -16,12 +16,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com foco em des
 
 ## Habilidades Técnicas
 
-### Linguagens e Frameworks Back-End
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F89820)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+
 
 ### Bancos de Dados
 
