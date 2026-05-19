@@ -1,50 +1,89 @@
+<div align="center">
+
 # Olá, eu sou a Raissa Santos Feitosa! 👋
 
-## Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP** e desenvolvedora em formação pela **Generation Brasil**. Minha trajetória é marcada pela união entre o desenvolvimento de software robusto e a inteligência aplicada aos dados.
-
-Atualmente, estou imersa no ecossistema **Java Full Stack (Spring Boot + React)** e me especializando em **Visão Computacional** pelo iRede. 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raissa-sf&theme=xcode&hide_border=true" alt="Meu gráfico de atividade" width="100%">
+</a>
 
 ---
 
-## Conecte-se Comigo
+### 💻 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/raissa-santos-feitosa-73485b1a3/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:raissa.feitosa06@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/raissa_feitosa06)
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e desenvolvedora em formação pela Generation Brasil.
+
+Tenho foco em desenvolvimento Full Stack com Java e Spring Boot, desenvolvendo soluções voltadas para automação de processos, integração de dados e sistemas escaláveis.
+
+Também me especializo em Visão Computacional pelo iRede, explorando aplicações de inteligência computacional, processamento de imagens e análise de dados.
+
+🌱 **Atualmente focada em:** Java Full Stack, Spring Boot, React e Visão Computacional
+
+🚀 **Projetos em destaque:** Desenvolvendo o TotalPCP, uma plataforma inteligente para planejamento e controle de produção industrial
+
+🌑 **Curiosidade:** Me interesso especialmente por projetos que unem desenvolvimento de software, automação de processos e eficiência operacional.
 
 ---
 
-## Habilidades Técnicas
+### 🛠️ Minhas Tech Skills
 
-### Linguagens e Frameworks (Full Stack)
+#### 💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Inteligência de Dados e Visão
-![Visão Computacional](https://img.shields.io/badge/Visão_Computacional-000?style=for-the-badge&logo=opencv&logoColor=white)
+#### ⚙️ Frameworks e Bibliotecas
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=150458)
+
+#### ☁️ Cloud e Dados
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=power-bi&logoColor=F2C911)
 
-### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
+#### 🗄️ Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+#### 🧰 Ferramentas e IDEs
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,idea,figma,spring)](https://skillicons.dev)
 
 ---
 
-## Em Desenvolvimento
+### 📊 Estatísticas de Desenvolvedor
 
-* **Generation Brasil:** Desenvolvimento Full Stack com foco em Java, Spring Boot e arquitetura de microsserviços.
-* **iREDE:** Fundamentos de Visão Computacional, processamento de imagem e Realidade Aumentada.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissa-sf&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raissa-sf&theme=tokyonight)
 
 ---
 
-## 📊 Estatísticas
-![Estatísticas da Raissa](https://github-readme-stats.vercel.app/api?username=raissa-sf&show_icons=true&theme=dark&border_color=30A3DC&title_color=E94D5F)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raissa-sf&layout=compact&theme=dark&border_color=30A3DC&title_color=E94D5F)
+### 📌 Áreas de Interesse
+
+🔹 Desenvolvimento Backend com Java e Spring  
+🔹 APIs REST e Arquitetura de Sistemas  
+🔹 Automação de Processos Industriais  
+🔹 Inteligência de Dados  
+🔹 Visão Computacional  
+🔹 Sistemas Escaláveis e Integrações
+
+---
+
+### 📫 Conecte-se Comigo
+
+<a href="https://www.linkedin.com/in/raissa-santos-feitosa-73485b1a3/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:raissa.feitosa06@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/raissa-sf">
+<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br />
+
+*"Desenvolvendo soluções que conectam tecnologia, dados e eficiência operacional."*
+
+</div>
